@@ -86,14 +86,14 @@
     "exit-hook": "2.2.1",
     "isbot": "^5.1.11",
     "jsesc": "3.0.2",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "p-map": "^7.0.3",
     "pathe": "^1.1.2",
     "picocolors": "^1.1.1",
     "pkg-types": "^2.3.0",
     "prettier": "^3.6.2",
     "react-refresh": "^0.14.0",
-    "semver": "^7.3.7",
+    "semver": "^7.7.3",
     "tinyglobby": "^0.2.14",
     "valibot": "^1.2.0",
     "vite-node": "^3.2.2"
@@ -121,7 +121,7 @@
     "typescript": "catalog:",
     "vite": "^6.3.0",
     "wireit": "catalog:",
-    "wrangler": "^4.23.0"
+    "wrangler": "^4.59.1"
   },
   "peerDependencies": {
     "@react-router/serve": "workspace:^",
