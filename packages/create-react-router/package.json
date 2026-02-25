@@ -44,18 +44,18 @@
     "gunzip-maybe": "^1.4.2",
     "log-update": "^5.0.1",
     "proxy-agent": "^6.3.0",
-    "semver": "^7.3.7",
+    "semver": "^7.7.3",
     "sisteransi": "^1.0.5",
     "sort-package-json": "^1.55.0",
     "strip-ansi": "^6.0.1",
-    "tar-fs": "^2.1.3"
+    "tar-fs": "^2.1.4"
   },
   "devDependencies": {
     "@types/gunzip-maybe": "^1.4.0",
     "@types/recursive-readdir": "^2.2.1",
     "@types/semver": "^7.7.0",
     "@types/tar-fs": "^2.0.1",
-    "esbuild": "0.25.0",
+    "esbuild": "0.25.1",
     "esbuild-register": "^3.6.0",
     "msw": "^2.7.5",
     "tiny-invariant": "^1.2.0",

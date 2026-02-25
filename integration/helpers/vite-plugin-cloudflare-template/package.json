@@ -29,7 +29,7 @@
     "typescript": "catalog:",
     "vite": "^6.3.0",
     "vite-tsconfig-paths": "^4.2.1",
-    "wrangler": "^4.23.0"
+    "wrangler": "^4.59.1"
   },
   "engines": {
     "node": ">=20.0.0"
