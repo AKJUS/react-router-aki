@@ -86,7 +86,7 @@
     "remark-gfm": "^3.0.1",
     "remark-parse": "^10.0.1",
     "remark-stringify": "^10.0.2",
-    "semver": "^7.5.4",
+    "semver": "^7.7.3",
     "typedoc": "^0.28.7",
     "typescript": "catalog:",
     "unified": "^10.1.2",

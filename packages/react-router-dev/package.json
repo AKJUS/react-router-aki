@@ -74,7 +74,7 @@
     "@babel/parser": "^7.27.7",
     "@babel/plugin-syntax-jsx": "^7.27.1",
     "@babel/preset-typescript": "^7.27.1",
-    "@babel/traverse": "^7.27.7",
+    "@babel/traverse": "^7.29.0",
     "@babel/types": "^7.27.7",
     "@react-router/node": "workspace:*",
     "@remix-run/node-fetch-server": "^0.13.0",
@@ -86,14 +86,14 @@
     "exit-hook": "2.2.1",
     "isbot": "^5.1.11",
     "jsesc": "3.0.2",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "p-map": "^7.0.3",
     "pathe": "^1.1.2",
     "picocolors": "^1.1.1",
     "pkg-types": "^2.3.0",
     "prettier": "^3.6.2",
     "react-refresh": "^0.14.0",
-    "semver": "^7.3.7",
+    "semver": "^7.7.3",
     "tinyglobby": "^0.2.14",
     "valibot": "^1.2.0",
     "vite-node": "^3.2.2"
@@ -102,7 +102,7 @@
     "@react-router/serve": "workspace:*",
     "@types/babel__core": "^7.20.5",
     "@types/babel__generator": "^7.27.0",
-    "@types/babel__traverse": "^7.20.7",
+    "@types/babel__traverse": "^7.28.0",
     "@types/dedent": "^0.7.0",
     "@types/express": "^4.17.9",
     "@types/jest": "^29.5.4",
@@ -121,7 +121,7 @@
     "typescript": "catalog:",
     "vite": "^6.3.0",
     "wireit": "catalog:",
-    "wrangler": "^4.23.0"
+    "wrangler": "^4.59.1"
   },
   "peerDependencies": {
     "@react-router/serve": "workspace:^",
